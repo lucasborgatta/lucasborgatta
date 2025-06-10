@@ -1,6 +1,6 @@
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A student of Information Systems Engineering</h3>
+<h3 align="center">A Information Systems Engineering</h3>
 
 
 - 🔭 Currently working on my final project called GMS for my degree in Information Systems Engineering.
