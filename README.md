@@ -3,14 +3,15 @@
 <h3 align="center">A Information Systems Engineering</h3>
 
 
-- 🔭 Currently working on my final project called GMS for my degree in Information Systems Engineering.
+- 🌱 Currently learning React, Java, TypeScript, Angular, Node.js
 
-- 🌱 Currently learning React, Java, TypeScript, Angular, Node.js.
+- 📫 You can contact me at lucasborgatta00@gmail.com
 
-- 📫 You can contact me at lucasborgatta00@gmail.com.
+- 🚀 You can see my work at https://borgattalucas-portfolio.vercel.app/
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasborgatta/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasborgatta/)
+[![Portfolio en Vercel](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://borgattalucas-portfolio.vercel.app/)
 
 # 💡 Languages and Tools:
 ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=plastic&logo=typescript&logoColor=white)
